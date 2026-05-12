@@ -36,10 +36,3 @@
     <td><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="bootstrap" width="40" height="40"/> </a>  </td><td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> </td><td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td><td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </td><td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></td><td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="xd" width="40" height="40"/> </a> </p></td>
   </tr>
 </table>
-  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstacknasir&show_icons=true&locale=en&layout=compact" alt="fullstacknasir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstacknasir&show_icons=true&locale=en" alt="fullstacknasir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstacknasir" alt="fullstacknasir" /></p>
